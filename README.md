@@ -1,1 +1,2 @@
 # WordleClone
+This is a clone of the popular New York Times Wordle game. It utilizes a FastAPI Python backend that has an HTTP GET route to the OpenAI API which chooses a 5 letter word for the game. The React.js front end gives users feedback on their guesses by emulating the colors of green, yellow, and grey for each guess. The game also allows players to play the game again by reseting the game and choosing a new word via the FastAPI route.
