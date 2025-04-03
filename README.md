@@ -1,4 +1,4 @@
-# **Wordle Clone**
+# **Wordle**
 
 The Wordle Clone is a recreation of the popular New York Times Wordle game. This web application allows users to guess a 5-letter word and receive feedback in the form of color-coded clues (green, yellow, grey) to guide their guesses. Built with a FastAPI Python backend and a React.js frontend, this game offers an engaging and fun experience for players.
 
